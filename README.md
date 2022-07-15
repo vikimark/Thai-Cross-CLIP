@@ -20,7 +20,7 @@ This Text encoder is trained on 2M Thai captions translated from English by AiRe
 <br>
 | Name |Model Base|Vision Model| Vision Dimensions|#Parameters|
 | ----------------------------------|:-----: |:-----: |:-----: |:-----: |
-| [WangchanBERTa ViT-B/32](https://huggingface.co/vikimark/CLIP-MSE-WangchanBerta)| [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased)| [OpenAI ViT-B/32](https://github.com/openai/CLIP)| 512 | TBA |
+| [WangchanBERTa ViT-B/32](https://huggingface.co/vikimark/CLIP-MSE-WangchanBerta)| [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased)| [OpenAI ViT-B/32](https://github.com/openai/CLIP)| 512 | 106M |
 
 ## Acknowledgements
 
