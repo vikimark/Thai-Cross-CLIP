@@ -17,7 +17,7 @@ class CFG:
     text_tokenizer = "wangchanberta-base-att-spm-uncased"
     max_length = 200
 
-    pretrained = True
+    pretrained = False
     trainable = True
     temperature = 1.0
 
