@@ -7,7 +7,7 @@
 
 This model is a Thai text encoder which is a part of CLIP. This model is trained via Teacher Learning method using OpenAi's CLIP as Teacher
 
-This repo contain only Text encoder which is compatible with ViT-B/32 OpenAi's Image encoder. To use this model as CLIP, you need to clone this repo (text encoder) and OpenAi's CLIP (image encoder). Look furthermore in Tutorial notebook [TBA]
+This repo contain only Text encoder which is compatible with ViT-B/32 OpenAi's Image encoder. To use this model as CLIP, you need to clone this repo (text encoder) and OpenAi's CLIP (image encoder). Look furthermore in Tutorial notebook [Here!](https://colab.research.google.com/github/vikimark/Thai-Cross-CLIP/blob/master/notebook/interacting_with_CLIP.ipynb)
 
 ## Demo 
 
