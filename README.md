@@ -22,6 +22,10 @@ This Text encoder is trained on 2M Thai captions translated from English by AiRe
 | ----------------------------------|:-----: |:-----: |:-----: |:-----: |
 | [WangchanBERTa ViT-B/32](https://huggingface.co/vikimark/CLIP-MSE-WangchanBerta)| [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased)| [OpenAI ViT-B/32](https://github.com/openai/CLIP)| 512 | 106 M |
 
+## other relate repo(s)
+
+* [VQGAN-ThCLIP](https://github.com/vikimark/VQGAN-ThCLIP): Text-to-image synthesis model in Thai language
+
 ## Acknowledgements
 
 * [AI Builders](https://github.com/ai-builders/ai-builders.github.io) for providing knowledge and support along the way<br />
